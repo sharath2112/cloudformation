@@ -1,2 +1,2 @@
-FROM wordpress:latest123456
+FROM wordpress:latest12345687
 MAINTAINER sharath 
